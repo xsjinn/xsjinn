@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xsjinn
 - 👀 I’m interested in learning- 🌱 I’m currently learning Python, Django
-- 📫 you can reach me by a visit; or contact me by a message;
+- 📫 you can reach me by a visit; or contact me by a message; E-MAIL"amrit.bir.singh.sohi@gmail.com"
 - 😄 Pronouns: M
 
 <!---
